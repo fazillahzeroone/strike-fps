@@ -1,0 +1,2 @@
+# strike-fps
+GAME TENTANG TEMA FPS
